@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "CleanAndroidArchitecture"
 include ':exercise0201'
 include ':exercise0202'
+include ':exercise0203'
+include ':exercise0204'
+include ':exercise0205'
