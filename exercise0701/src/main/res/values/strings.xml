@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise0701</string>
+    <string name="total_click_count">Total click count: %d</string>
+    <string name="author">Author: %s</string>
+    <string name="title">Title: %s</string>
+    <string name="body">Body: %s</string>
+    <string name="name">Name: %s</string>
+    <string name="username">Username: %s</string>
+    <string name="email">Email: %s</string>
+</resources>
